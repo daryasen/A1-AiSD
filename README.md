@@ -197,4 +197,4 @@ A1rq — ID
 
 ## Репозиторий
 
-GitHub: ссылка_на_репозиторий
+GitHub: [ссылка_на_репозиторий](https://github.com/daryasen/A1-AiSD.git)
